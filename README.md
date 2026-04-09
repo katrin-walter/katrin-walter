@@ -9,7 +9,7 @@ Alongside my background in molecular biology (over 15 years), I enjoy self-teach
 My repositories will grow, improve, and change as I learn. If something looks unfinished today, it will be better tomorrow. Feedback and collaborations are always welcome!
 
 #### 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,r,bash,md,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,bash,md,linux,vscode,vscodium)](https://skillicons.dev)
 
 #### 🧪 Current Focus
 - **Sequencing:** Mastering long- and short-read data workflows.
