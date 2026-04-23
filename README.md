@@ -1,4 +1,4 @@
-#### 🧬 Biologist | PhD Candidate at CCMAR | Bioinformatics Enthusiast
+#### 🧬 Biologist | PhD Candidate | Bioinformatics Enthusiast
 
 
 #### Hi there, I'm Katrin 👋
